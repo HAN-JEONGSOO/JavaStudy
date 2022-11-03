@@ -74,11 +74,11 @@ public class GCD {
 		
 		System.out.println("최대공약수는 " + n1);
 
-	}
-
 /*
 <Output>
 최대공약수는 9
 */
+
+	}
 
 }
