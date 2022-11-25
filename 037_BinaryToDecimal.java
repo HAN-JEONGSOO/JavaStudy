@@ -4,7 +4,7 @@ public class BinaryToDecimal {
 
 	public static void main(String[] args) {
 		
-		// 이진수에서 십진수로 바꾸기, 그 반대로도 하기
+		// 이진수에서 십진수로 바꾸기, 그 반대로도 가능하도록
 		
 		// 예 1: 커스텀 메서드를 사용해 이진수를 십진수로 변환하기
 		// 이진수
